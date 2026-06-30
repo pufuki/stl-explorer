@@ -22,9 +22,6 @@ Here are some screenshots of the application running inside the terminal:
 ### Sorting Algorithms Visualizer
 ![Sorting Visualizer](images/sort-stl.png)
 
-### Interactive Quiz Mode
-![Quiz Mode](images/quiz-stl.png)
-
 ### Dynamic Container Comparison
 ![Comparison Panel](images/comparison-stl.png)
 
