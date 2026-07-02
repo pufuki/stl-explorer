@@ -131,21 +131,6 @@ STL-Explorer/
 
 ---
 
-## Contributing
-
-We welcome contributions to make STL Explorer more educational and robust. To contribute:
-
-1. Fork the repository on GitHub.
-2. Create a new branch named after your feature (e.g., `git checkout -b feature/your-feature-name`).
-3. Write clean, readable code following modern C++20 guidelines.
-4. Document any new features or visual components in your code.
-5. Commit your changes with descriptive commit messages.
-6. Push to your branch and open a Pull Request.
-
-Please ensure the project builds successfully on your local system before submitting a Pull Request.
-
----
-
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
